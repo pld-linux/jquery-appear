@@ -2,7 +2,7 @@
 Summary:	jQuery plugin to call a function when an element becomes visible
 Name:		jquery-%{plugin}
 Version:	1.1.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Applications/WWW
 Source0:	https://jquery-appear.googlecode.com/files/jquery.appear-%{version}.js
